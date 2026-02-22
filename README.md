@@ -256,11 +256,6 @@ Application Breakdown:
 
 ---
 
-## What's Next
-- QUIC/HTTP3 support (SNI in UDP)
-- Live capture mode (not just files)
-- Simple web dashboard
-
 ## What I Learned
 
 - Ethernet / IP / TCP internals
@@ -271,3 +266,8 @@ Application Breakdown:
 - Avoiding false sharing
 - Designing high-throughput systems
 - Debugging with GDB, Valgrind, AddressSanitizer
+
+## What's Next
+- QUIC/HTTP3 support (SNI in UDP)
+- Live capture mode (not just files)
+- Simple web dashboard
